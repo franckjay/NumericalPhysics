@@ -1,0 +1,6 @@
+By plotting the data, as well as calculating the Chi^2 values of the Basic and advanced projects
+of k=3,4,5,6+, it is apparent that k=5 has the lowest Chi^2 value, but the advanced 3,4,5 fits are
+all pretty decent, with just moderate improvements in Chi^2 values. Even the basic project looks decent
+when put on the plot. The Chi^2 value when k=6,7,8... simply explodes, and the fits do not look good on a plot. 
+
+ 
